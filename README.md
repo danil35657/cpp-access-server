@@ -1,2 +1,2 @@
-# cpp_access_server
+# cpp-access-server
 Сервер доступа к внутренним сетевым ресурсам
